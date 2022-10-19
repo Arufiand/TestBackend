@@ -11,6 +11,7 @@
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
+        "php-open-source-saver/jwt-auth": "^2.0",
         "symfony/http-foundation": "^5.4"
     },
     "require-dev": {
